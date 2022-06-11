@@ -8,13 +8,6 @@
 @font-face {
   font-family: "Aileron";
   font-style: normal;
-  font-weight: 400;
-  src: url("fonts/aurora-theme-base-fonts/aileron-regular.woff2") format("woff2"), url("fonts/aurora-theme-base-fonts/aileron-regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Aileron";
-  font-style: normal;
   font-weight: 500;
   src: url("fonts/aurora-theme-base-fonts/aileron-semibold.woff2") format("woff2"), url("fonts/aurora-theme-base-fonts/aileron-semibold.woff") format("woff");
 }

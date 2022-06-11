@@ -8,7 +8,6 @@ import { InfoPagina } from '../interfaces/info-pagina.interface';
 export class InfoPaginaService {
   info: InfoPagina = {};
   cargada = false;
-
   equipo: any[] = [];
 
   constructor(private http: HttpClient) {
