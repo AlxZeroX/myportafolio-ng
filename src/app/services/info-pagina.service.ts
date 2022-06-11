@@ -32,7 +32,7 @@ export class InfoPaginaService {
       .get('https://angular-porfafolio-default-rtdb.firebaseio.com/Equipo.json')
       .subscribe((resp: any) => {
         this.equipo = resp;
-        console.log(resp);
+        // console.log(resp);
       });
 
     // this.equipo = resp
